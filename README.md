@@ -1,4 +1,4 @@
-# Fuzzy: Multiperceptron (MLP)
+# Fuzzy: MultilayerPerceptron (MLP)
 
 Este projeto implementa uma rede neural simples do tipo **Multiperceptron (MLP)** utilizando a linguagem C. O programa simula uma rede neural feedforward básica com dois neurônios de entrada, dois neurônios na camada oculta e um neurônio de saída. Ele usa pesos pré-definidos e a função de ativação sigmoide para calcular a saída da rede.
 
