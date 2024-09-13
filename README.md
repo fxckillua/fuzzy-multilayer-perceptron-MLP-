@@ -28,6 +28,9 @@ Os pesos são pré-definidos da seguinte forma:
 ### Função de Ativação
 
 A função sigmoide é usada como função de ativação:
+
+![image](https://github.com/user-attachments/assets/5f65362e-a2e5-42e7-8d73-e796b7f60f38)
+
 \[
 S = \frac{1}{1 + e^{-10 \cdot (E - T)}}
 \]
